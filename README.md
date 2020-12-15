@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Shikhar Singh</h1>
 <h3 align="center">A Tech Enthuasitic developer from India</h3>
 <p align= "center"><img src="https://github.com/nikhilverma360/nikhilverma360/blob/main/animation_500_ki5uuop9.gif" width="250" height="250"></p>
-
+[![ReadMe Card](https://github.com/linux369/github-readme-stats)
 
 
 - 🔭 I’m currently working on **Big Data**
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://1drv.ms/b/s!AtUnKYqSeDgYtTEz3RsoaVVmhLQV?e=TlyWG3](https://1drv.ms/b/s!AtUnKYqSeDgYtTEz3RsoaVVmhLQV?e=TlyWG3)
 
-- ⚡ Fun fact **Did you know how many total programming languages? – it’s 698.**
+- ⚡ Fact **Did you know how many total programming languages? – it’s 698.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
