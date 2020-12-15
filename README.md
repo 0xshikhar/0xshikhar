@@ -1,21 +1,22 @@
 # Profile
 <h1 align="center">Hi 👋, I'm Shikhar Singh</h1>
-<h3 align="center">A Tech Enthuasitic developer from India</h3>
+<h3 align="center">A Tech Enthuasitic Developer from India</h3>
 <p align= "center"><img src="https://github.com/nikhilverma360/nikhilverma360/blob/main/animation_500_ki5uuop9.gif" width="250" height="250"></p>
-[![ReadMe Card](https://github.com/linux369/github-readme-stats)
+<p align="left"> <a href="https://twitter.com/ShikharSChauhan" target="blank"><img src="https://img.shields.io/twitter/follow/ShikharSChauhan?logo=twitter&style=for-the-badge" alt="Shikhar" /></a> </p>
+![](https://komarev.com/ghpvc/?username=nikhilverma360&label=I'm+watching+you!+Profile+view+count)
 
+- 🔭 I’m currently working on **Machine Learning and A.I **
 
-- 🔭 I’m currently working on **Big Data**
+- 🌱 I’m currently learning **Cloud**
 
-- 🌱 I’m currently learning **crypto**
+- 👨‍💻 All of my projects are available at [https://github.com/linux369](https://github.com/linux369)
 
-- 👨‍💻 All of my projects are available at [https://github.com/PrabalParihar](https://github.com/PrabalParihar)
+- 💬 Ask me about **Flutter App Development,Web Development,Startup Entrepreneurship**
 
-- 💬 Ask me about **android, bot automation, entrepreneurship**
+- 📫 How to reach me **DM me at Instagram or Twitter**
 
-- 📫 How to reach me **prabalparihar95@gmail.com**
-
-- 📄 Know about my experiences [https://1drv.ms/b/s!AtUnKYqSeDgYtTEz3RsoaVVmhLQV?e=TlyWG3](https://1drv.ms/b/s!AtUnKYqSeDgYtTEz3RsoaVVmhLQV?e=TlyWG3)
+- 📄 Know about my experiences [soon](https://1drv.ms/b/s!AtUnKYqSeDgYtTEz3RsoaVVmhLQV?e=TlyWG3)
+-
 
 - ⚡ Fact **Did you know how many total programming languages? – it’s 698.**
 
