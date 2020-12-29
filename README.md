@@ -3,7 +3,6 @@
 <h3 align="center">A Tech Enthuasitic Developer from India</h3>
 <p align= "center"><img src="https://github.com/nikhilverma360/nikhilverma360/blob/main/animation_500_ki5uuop9.gif" width="250" height="250"></p>
 <p align="left"> <a href="https://twitter.com/ShikharSChauhan" target="blank"><img src="https://img.shields.io/twitter/follow/ShikharSChauhan?logo=twitter&style=for-the-badge" alt="Shikhar" /></a> </p>
-![](https://komarev.com/ghpvc/?username=nikhilverma360&label=I'm+watching+you!+Profile+view+count)
 
 - 🔭 I’m currently working on **Machine Learning and A.I **
 
@@ -15,17 +14,16 @@
 
 - 📫 How to reach me **DM me at Instagram or Twitter**
 
-- 📄 Know about my experiences [soon](https://1drv.ms/b/s!AtUnKYqSeDgYtTEz3RsoaVVmhLQV?e=TlyWG3)
--
+- 📄 Know about my experiences [soon]
 
 - ⚡ Fact **Did you know how many total programming languages? – it’s 698.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="PrabalParihar" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/prabal-pratap-singh-00578718a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="PrabalParihar" height="30" width="40" /></a>
-<a href="https://www.facebook.com/prabal.parihar.750/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="PrabalParihar" height="30" width="40" /></a>
-<a href="https://www.instagram.com/prabal_parihar_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="PrabalParihar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shikhr-singh/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="PrabalParihar" height="30" width="40" /></a>
+<a href="https://www.facebook.com//" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="PrabalParihar" height="30" width="40" /></a>
+<a href="https://www.instagram.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="PrabalParihar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
