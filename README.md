@@ -4,9 +4,9 @@
 <p align= "center"><img src="https://github.com/nikhilverma360/nikhilverma360/blob/main/animation_500_ki5uuop9.gif" width="250" height="250"></p>
 <p align="left"> <a href="https://twitter.com/ShikharSChauhan" target="blank"><img src="https://img.shields.io/twitter/follow/ShikharSChauhan?logo=twitter&style=for-the-badge" alt="Shikhar" /></a> </p>
 
-- 🔭 I’m currently working on **Upwork**
+- 🔭 I’m currently working on **Upwork as a Freelancer**
 
-- 🌱 I’m currently learning **Web3 Technologies for Ethereum and Solana Blockchain**
+- 🌱 I’m currently learning **Web3 Technologies for Ethereum, Polygon, and Solana Blockchain**
 
 - 👨‍💻 All of my projects are available at [https://github.com/linux369](https://github.com/linux369)
 
