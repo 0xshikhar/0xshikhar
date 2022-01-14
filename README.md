@@ -4,17 +4,15 @@
 <p align= "center"><img src="https://github.com/nikhilverma360/nikhilverma360/blob/main/animation_500_ki5uuop9.gif" width="250" height="250"></p>
 <p align="left"> <a href="https://twitter.com/ShikharSChauhan" target="blank"><img src="https://img.shields.io/twitter/follow/ShikharSChauhan?logo=twitter&style=for-the-badge" alt="Shikhar" /></a> </p>
 
-- 🔭 I’m currently working on **Machine Learning and A.I **
+- 🔭 I’m currently working on **Upwork**
 
-- 🌱 I’m currently learning **Cloud**
+- 🌱 I’m currently learning **Web3 Technologies for Ethereum and Solana Blockchain**
 
 - 👨‍💻 All of my projects are available at [https://github.com/linux369](https://github.com/linux369)
 
 - 💬 Ask me about **Flutter App Development,Web Development,Startup Entrepreneurship**
 
-- 📫 How to reach me **DM me at Instagram or Twitter**
-
-- 📄 Know about my experiences [soon]
+- 📫 How to reach me **DM me at Twitter**
 
 - ⚡ Fact **Did you know how many total programming languages? – it’s 698.**
 
