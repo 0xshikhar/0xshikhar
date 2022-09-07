@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Shikhar Singh</h1>
 <h3 align="center">A Tech Enthuasitic Developer from India</h3>
 <p align= "center"><img src="https://github.com/nikhilverma360/nikhilverma360/blob/main/animation_500_ki5uuop9.gif" width="250" height="250"></p>
-<p align="left"> <a href="https://twitter.com/0xShikhar" target="blank"><img src="https://img.shields.io/twitter/follow/ShikharSChauhan?logo=twitter&style=for-the-badge" alt="Shikhar" /></a> </p>
+<p align="left"> <a href="https://twitter.com/0xshikhar" target="blank"><img src="https://img.shields.io/twitter/follow/0xShikhar?logo=twitter&style=for-the-badge" alt="0xShikhar" /></a> </p>
 
 - 🔭 I’m currently working on **Upwork as a Freelancer Web3 Developer**
 
