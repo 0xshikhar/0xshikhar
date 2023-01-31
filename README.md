@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently exploring **Web3 Technologies for Ethereum, Polygon, Avalanche, and Solana Blockchain**
 
-- 👨‍💻 All of my projects are available at [https://github.com/linux369](https://github.com/linux369)
+- 👨‍💻 All of my projects are available at [https://github.com/0xshikhar](https://github.com/0xshikhar)
 
 - 💬 Ask me about **Flutter App Development,Web Development,Startup and Entrepreneurship**
 
-- 📫 How to reach me **DM me at Twitter**
+- 📫 How to reach me **DM me at Twitter or email at 0xshikhar@gmail.com** 
 
 - ⚡ Fact **Did you know how many total programming languages? – it’s 698.**
 
