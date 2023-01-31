@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently exploring **Web3 Technologies for Ethereum, Polygon, Avalanche, and Solana Blockchain**
 
-- 👨‍💻 All of my projects are available at [https://github.com/0xshikhar](https://github.com/0xshikhar)
+- 👨‍💻 All of my projects are available at Github(https://github.com/0xshikhar?tab=repositories)
 
 - 💬 Ask me about **Flutter App Development,Web Development,Startup and Entrepreneurship**
 
