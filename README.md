@@ -19,10 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="PrabalParihar" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/shikhr-singh/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="PrabalParihar" height="30" width="40" /></a>
-<a href="https://www.facebook.com//" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="PrabalParihar" height="30" width="40" /></a>
-<a href="https://www.instagram.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="PrabalParihar" height="30" width="40" /></a>
+<a href="https://twitter.com/0xshikhar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="0xshikhar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/0xshikhar/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="0xshikhar" height="30" width="40" /></a>
+<a href="https://www.instagram.com/0xshikhar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="0xshikhar" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages</h3>
