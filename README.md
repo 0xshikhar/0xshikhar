@@ -11,9 +11,9 @@
 
 - 👨‍💻 I am currently building **FundStarter** & **Flux Wallet**
 
-- 💬 Ask me  about **Web Development, React, Solidity, Ethereum, Polygon, and other EVM compatible chains  **
+- 💬 Ask me  about **Web Development, React, Solidity, Ethereum, Polygon,** and other **EVM compatible chains**.
 
-- ⚡ Fact **Did you know how many total programming languages? – it’s 698.**
+- ⚡ Fact: Did you know how many total programming languages? – **it’s 698.**
 
 ### Honors & Awards 🏅
 
@@ -32,7 +32,7 @@
 <h3 align="center"><img width="10%" height="auto" src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif"/></h3>
 <h3 align="center" > Connect with me: </h3>
 <p align="center">
-  <a href="https://linkedin.com/in/0xshikhar" target="blank"><img align="center" src="https://img.shields.io/badge/0xshikhar5-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" alt="0xshikhar"  /></a>
+  <a href="https://linkedin.com/in/0xshikhar" target="blank"><img align="center" src="https://img.shields.io/badge/0xshikhar-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" alt="0xshikhar"  /></a>
   <a href="https://twitter.com/0xShikhar" target="blank"><img align="center" src="https://img.shields.io/badge/0xshikhar-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="0xshikhar"  /></a>
   <a href="https://www.instagram.com/0xshikhar" target="blank"><img align="center" src="https://img.shields.io/badge/0xshikhar-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="0xshikhar"  /></a>
 </p>
