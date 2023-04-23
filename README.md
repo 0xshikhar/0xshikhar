@@ -15,6 +15,20 @@
 
 - ⚡ Fact **Did you know how many total programming languages? – it’s 698.**
 
+### Honors & Awards 🏅
+
+- ETHIndia 2022 (World's Biggest Ethereum Hackathon): Winner at Huddle01 - 3rd Prize 🏆, NFTPort, Covalent , ENS, StackOS for Meet3Club
+- ETHIndia Ethernals 2022 | Filecoin track winner 🏆 LetsDate Platform
+- MoleHack NFT 2.0 - Brainly Prize Winner 🏆 LetsDate Platform
+- ETHGlobal BuildQuest 2022 - Valist Track Prize 🏆 MetaChess Game
+- ETHGlobal Road To Web3 - Polygon Track Prize 🏆 PolyFinance Project
+- Polygon BUIDL IT 2021 - "Best Web3 Integration with Trell" 1st Winner 🏆 NFTable Project
+- IIT Bombay Eureka 2021 : Asia's Largest Business-Model competition - Finalist 🏆 Sociolancer
+- Google Devfest 2021 - Web Track Winner 🏆
+
+
+
+
 <h3 align="center"><img width="10%" height="auto" src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif"/></h3>
 <h3 align="center" > Connect with me: </h3>
 <p align="center">
