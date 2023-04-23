@@ -57,7 +57,9 @@
 
 <br>
 
-![Shikhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xshikhar&&count_private=true&show_icons=true&theme=radical)
+|🎯 Most used languages 🏆| 🏆 Github Stats 🔭|
+|----------------------------------|----------------------------|
+|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xshikhar&theme=midnight-purple&layout=compact&hide=css,html)](https://github.com/anuraghazra/github-readme-stats) | [![Shikhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xshikhar&show_icons=true&theme=midnight-purple&hide_title=true)](https://github.com/0xshikhar)|
 <br><br>
 ![Shikhar's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=0xshikhar&theme=blue-green)
 
