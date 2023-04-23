@@ -59,16 +59,17 @@
 
 |🎯 Most used languages 🏆| 🏆 Github Stats 🔭|
 |----------------------------------|----------------------------|
-|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xshikhar&theme=midnight-purple&layout=compact&hide=css,html)](https://github.com/anuraghazra/github-readme-stats) | [![Shikhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xshikhar&show_icons=true&theme=midnight-purple&hide_title=true)](https://github.com/0xshikhar)|
+|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xshikhar&theme=midnight-purple&layout=compact&hide=css,html)](https://github.com/anuraghazra/github-readme-stats) | [![Shikhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xshikhar&show_icons=true&theme=midnight-purple&hide_title=true)](https://github.com/0xshikhar)
+
 <br><br>
 ![Shikhar's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=0xshikhar&theme=blue-green)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=0xshikhar&theme=onedark)](https://github.com/0xshikhar/github-profile-trophy)
 
 
-|  Contribution Stats  |
+<!-- |  Contribution Stats  |
 |----------------------|
-| ![](./profile-3d-contrib/profile-night-view.svg) |
+| ![](./profile-3d-contrib/profile-night-view.svg) | -->
       
 <!---
 0xshikhar/0xshikhar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
