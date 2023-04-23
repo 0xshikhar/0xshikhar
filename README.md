@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently exploring about **ERC4337 && Zero Knowledge Proof** on EVM compatible chains.
 
-- 🔭 I’m sometime work on **Upwork as a Freelance Web3 Developer**
+- 🔭 I’m work on **Upwork as a Freelance Web3 Developer** in my free time.
 
 - 👨‍💻 I am currently building **FundStarter** & **Flux Wallet**
 
-- 💬 Ask me  about **Web Development & Blockchain **
+- 💬 Ask me  about **Web Development, React, Solidity, Ethereum, Polygon, and other EVM compatible chains  **
 
 - ⚡ Fact **Did you know how many total programming languages? – it’s 698.**
 
