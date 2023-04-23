@@ -1,28 +1,28 @@
 # Profile
 <h1 align="center">Hi 👋, I'm Shikhar Singh</h1>
-<h3 align="center">A Tech Enthuasitic Developer from India</h3>
+<h3 align="center">Full Stack & Blockchain Developer</h3>
 <p align= "center"><img src="https://github.com/nikhilverma360/nikhilverma360/blob/main/animation_500_ki5uuop9.gif" width="250" height="250"></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xshikhar&label=Profile%20views&color=0e75b6&style=flat" alt="0xshikhar" /> </p>
-<p align="left"> <a href="https://twitter.com/0xshikhar" target="blank"><img src="https://img.shields.io/twitter/follow/0xShikhar?logo=twitter&style=for-the-badge" alt="0xShikhar" /></a> </p>
+<p align="left"> <a href="https://twitter.com/0xShikhar" target="blank"><img src="https://img.shields.io/twitter/follow/0xShikhar?logo=twitter&style=for-the-badge" alt="0xShikhar" /></a> </p>
 
-- 🔭 I’m currently working on **Upwork as a Freelancer Web3 Developer**
+- 🌱 I’m currently exploring about **ERC4337 && Zero Knowledge Proof** on EVM compatible chains.
 
-- 🌱 I’m currently exploring **Web3 Technologies for Ethereum, Polygon, Avalanche, and Solana Blockchain**
+- 🔭 I’m sometime work on **Upwork as a Freelance Web3 Developer**
 
-- 👨‍💻 All of my projects are available at Github(https://github.com/0xshikhar?tab=repositories)
+- 👨‍💻 I am currently building **FundStarter** & **Flux Wallet**
 
-- 💬 Ask me about **Flutter App Development,Web Development,Startup and Entrepreneurship**
-
-- 📫 How to reach me **DM me at Twitter or email at 0xshikhar@gmail.com** 
+- 💬 Ask me  about **Web Development & Blockchain **
 
 - ⚡ Fact **Did you know how many total programming languages? – it’s 698.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/0xshikhar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="0xshikhar" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/0xshikhar/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="0xshikhar" height="30" width="40" /></a>
-<a href="https://www.instagram.com/0xshikhar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="0xshikhar" height="30" width="40" /></a>
+<h3 align="center"><img width="10%" height="auto" src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif"/></h3>
+<h3 align="center" > Connect with me: </h3>
+<p align="center">
+  <a href="https://linkedin.com/in/0xshikhar" target="blank"><img align="center" src="https://img.shields.io/badge/0xshikhar5-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" alt="0xshikhar"  /></a>
+  <a href="https://twitter.com/0xShikhar" target="blank"><img align="center" src="https://img.shields.io/badge/0xshikhar-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="0xshikhar"  /></a>
+  <a href="https://www.instagram.com/0xshikhar" target="blank"><img align="center" src="https://img.shields.io/badge/0xshikhar-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="0xshikhar"  /></a>
 </p>
+
 
 <h3 align="center">Languages</h3>
 <p align="center">
@@ -60,6 +60,13 @@
 ![Shikhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xshikhar&&count_private=true&show_icons=true&theme=radical)
 <br><br>
 ![Shikhar's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=0xshikhar&theme=blue-green)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=0xshikhar&theme=onedark)](https://github.com/0xshikhar/github-profile-trophy)
+
+
+|  Contribution Stats  |
+|----------------------|
+| ![](./profile-3d-contrib/profile-night-view.svg) |
       
 <!---
 0xshikhar/0xshikhar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
