@@ -35,7 +35,7 @@
   <a href="https://linkedin.com/in/0xshikhar" target="blank"><img align="center" src="https://img.shields.io/badge/0xshikhar-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" alt="0xshikhar"  /></a>
   <a href="https://twitter.com/0xShikhar" target="blank"><img align="center" src="https://img.shields.io/badge/0xshikhar-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="0xshikhar"  /></a>
   <a href="https://www.instagram.com/0xshikhar" target="blank"><img align="center" src="https://img.shields.io/badge/0xshikhar-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="0xshikhar"  /></a>
-  <a href="mailto:0xshikhar@gmail.com" target="blank"><img align="center" alt="0xshikhar"  />Email</a>
+  <a href="mailto:0xshikhar@gmail.com" target="blank"><img align="center" alt="0xshikhar" src="https://img.shields.io/badge/Email-orange?style=for-the-badge&logo=Email&logoColor=white"/></a>
 </p>
 
 
