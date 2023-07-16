@@ -5,19 +5,19 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xshikhar&label=Profile%20views&color=0e75b6&style=flat" alt="0xshikhar" /> </p>
 <p align="left"> <a href="https://twitter.com/0xShikhar" target="blank"><img src="https://img.shields.io/twitter/follow/0xShikhar?logo=twitter&style=for-the-badge" alt="0xShikhar" /></a> </p>
 
-- 🌱 I’m currently exploring about **ERC4337 && Zero Knowledge Proof** on EVM compatible chains.
+- 🌱 I’m currently exploring about **ERC4337, ERC6551 & Zero Knowledge Proof** on EVM compatible chains.
 
-- 🔭 I’m work on **Upwork as a Freelance Web3 Developer** in my free time.
+- 🔭 I’m work on **Upwork as a Freelance Web3 Developer** in my free time, which i rarely get :)
 
 - 👨‍💻 I am currently building **FundStarter** & **Flux Wallet**
 
-- 💬 Ask me  about **Web Development, React, Solidity, Ethereum, Polygon,** and other **EVM compatible chains**.
+- 💬 Ask me  about **Web Development, Blockchain, React, Solidity, Ethereum, Polygon,** and other **EVM compatible chains**.
 
 - ⚡ Fact: Did you know how many total programming languages? – **it’s 698.**
 
 ### Honors & Awards 🏅
 
-- ETHIndia 2022 (World's Biggest Ethereum Hackathon): Winner at Huddle01 - 3rd Prize 🏆, NFTPort, Covalent , ENS, StackOS for Meet3Club
+- ETHIndia 2022 (World's Biggest Ethereum Hackathon): Winner at Huddle01 - 3rd Prize 🏆, NFTPort, Covalent, ENS, StackOS for Meet3Club
 - ETHIndia Ethernals 2022 | Filecoin track winner 🏆 LetsDate Platform
 - MoleHack NFT 2.0 - Brainly Prize Winner 🏆 LetsDate Platform
 - ETHGlobal BuildQuest 2022 - Valist Track Prize 🏆 MetaChess Game
