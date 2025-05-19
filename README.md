@@ -4,10 +4,6 @@
 <p align= "center"><img src="https://github.com/nikhilverma360/nikhilverma360/blob/main/animation_500_ki5uuop9.gif" width="250" height="250"></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xshikhar&label=Profile%20views&color=0e75b6&style=flat" alt="0xshikhar" /> </p>
 <p align="left"> <a href="https://twitter.com/0xShikhar" target="blank"><img src="https://img.shields.io/twitter/follow/0xShikhar?logo=twitter&style=for-the-badge" alt="0xShikhar" /></a> </p>
-[![Website Badge](https://img.shields.io/badge/-shikhar.xyz-3b5998?style=flat&logo=google-chrome&logoColor=white)](https://shikhar.xyz/?ref=github-profile-readme-badge)
-[![Linkedin Badge](https://img.shields.io/badge/-@0xshikhar?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/0xShikhar)
-[![Twitter Badge](https://img.shields.io/twitter/follow/0xshikhar)](https://x.com/0xshikhar) 
-
 
 - 🌱 I’m currently exploring about **ERC4337, ERC6551 & Zero Knowledge Proof** on EVM compatible chains.
 
