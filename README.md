@@ -1,12 +1,11 @@
-# Profile
-<h1 align="center">Hi 👋, I'm Shikhar</h1>
-<h3 align="center">Full Stack & Blockchain Developer</h3>
-<p align= "center"><img src="https://github.com/nikhilverma360/nikhilverma360/blob/main/animation_500_ki5uuop9.gif" width="250" height="250"></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=0xshikhar&label=Profile%20views&color=0e75b6&style=flat" alt="0xshikhar" /> </p>
-<p align="left"> <a href="https://twitter.com/0xShikhar" target="blank"><img src="https://img.shields.io/twitter/follow/0xShikhar?logo=twitter&style=for-the-badge" alt="0xShikhar" /></a> </p>
-[![Website Badge](https://img.shields.io/badge/-shikhar.xyz-3b5998?style=flat&logo=google-chrome&logoColor=white)](https://shikhar.xyz/?ref=github-profile-readme-badge)
-[![Linkedin Badge](https://img.shields.io/badge/-@0xshikhar?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/0xShikhar)
+# Hello World, I'm Shikhar 👨‍💻
+#### Buildoor & Full Stack Web3 Developer
 
+[![Twitter Badge](https://img.shields.io/twitter/follow/0xshikhar)](https://x.com/0xShikhar) 
+[![Website Badge](https://img.shields.io/badge/-shikhar.xyz-3b5998?style=flat&logo=google-chrome&logoColor=white)](https://akashrajpurohit.com/?ref=github-profile-readme-badge) [![Linkedin Badge](https://img.shields.io/badge/-@0xShikhar-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/0xShikhar) ![Profile views](https://komarev.com/ghpvc/?username=0xshikhar&label=Profile%20views&color=0e75b6&style=flat)
+
+
+### Glad to see you here!
 
 - 🌱 I’m currently exploring about **ERC4337, ERC6551 & Zero Knowledge Proof** on EVM compatible chains.
 
@@ -29,6 +28,12 @@
 - IIT Bombay Eureka 2021 : Asia's Largest Business-Model competition - Finalist 🏆 Sociolancer
 - Google Devfest 2021 - Web Track Winner 🏆
 
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
+
+  <img height="170em" src="https://grs-akash.vercel.app/api?username=0xshikhar&show_icons=false&hide_border=true&count_private=true&show_icons=true&theme=radical&rank_icon=percentile" />
+  <img height="170em" src="https://grs-akash.vercel.app/api/top-langs/?username=0xshikhar&hide=html,Jupyter%20Notebook&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical" />
+</details>
 
 
 
@@ -95,4 +100,3 @@
 0xshikhar/0xshikhar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
