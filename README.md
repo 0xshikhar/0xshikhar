@@ -80,7 +80,7 @@ RESOLUTIONS: On-chain commitment protocol built on Base with token-based incenti
 	  <li><b>Code Editor:</b> Visual Studio Code / Neovim </li>
 	  <li><b>To Stay Updated:</b> Dev.to, Medium, Twitter and Tech YouTube Channels</li>
 	</ul>
-	<b>Read more about it <a target="_blank" rel="norefferer noopener" href="https://akashrajpurohit.com/uses/?ref=github-profile-readme">here</a></b>
+	<b>Read more about it <a target="_blank" rel="norefferer noopener" href="https://shikhar.xyz/uses/?ref=github-profile-readme">here</a></b>
 </details> 
 
 
