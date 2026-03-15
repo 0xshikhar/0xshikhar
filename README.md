@@ -5,7 +5,7 @@
 [![Website Badge](https://img.shields.io/badge/-shikhar.xyz-3b5998?style=flat&logo=google-chrome&logoColor=white)](https://shikhar.xyz/?ref=github-profile-readme-badge) 
 [![Linkedin Badge](https://img.shields.io/badge/-@0xShikhar-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/0xShikhar) 
 ![Profile views](https://komarev.com/ghpvc/?username=0xshikhar&label=Profile%20views&color=0e75b6&style=flat)
-[![Mail Badge](https://img.shields.io/badge/-mail-c14438?style=flat&logo=gmail&logoColor=white)](mailto:0xshikhar@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-mail-c14438?style=flat&logo=gmail&logoColor=white)](mailto:shikhardotxyz@gmail.com)
 
 ### Glad to see you here!
 
